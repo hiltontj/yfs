@@ -3,7 +3,7 @@ Yahoo! Fantasy Sports API Exploration
 
 ## Getting Started
 
-To use this the code in this repo, you will need to have a valid Yahoo! Fantasy Sports account and be participating in a league. This code is meant for the Yahoo! Fantasy Hockey, but could probably be adapted easily to the other sports. All of the code here is written in Python. There are several Python dependancies which you will need to have installed:
+To use the code in this repo, you will need to have a valid Yahoo! Fantasy Sports account and be participating in a league. This code is meant for the Yahoo! Fantasy Hockey, but could probably be adapted easily to the other sports. All of the code here is written in Python. There are several Python dependancies which you will need to have installed:
 
 ## Dependancies:
 
