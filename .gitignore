@@ -6,3 +6,4 @@ auth/**
 **.pyc
 **auth
 **oauth.json
+**.pdf
