@@ -44,4 +44,4 @@ There are two types of scripts in this repo: data collection, and data visualiza
 
 This is a class defined for getting and parsing resources from the Yahoo! API. It contains a set of methods, one for each API of interest.
 
-
+When initializing the yahoo_api object in scripts, you need to provide a **league_id** and **game_key**. I have stored these in another JSON file called **league_info.json**, an example of which is already in this repo. You can find your league key in the League Settings page on the main Yahoo Fantasy Sports website. The game_key for NHL will just be "nhl".
